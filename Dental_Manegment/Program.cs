@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Dental_Manegment.Forms;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,10 @@ namespace Dental_Manegment
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new  Forms.signin());
+            signin _load1= new signin();
+            _load1.Show();
+            Application.Run();
+           
         }
     }
 }

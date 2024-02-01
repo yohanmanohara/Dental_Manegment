@@ -345,5 +345,8 @@
   <ItemGroup>
     <None Include="Resources\124394039-modern-unique-tooth-dental-health-icon-logo-with-blue-color-for-pediatric-dentistry-family-dentist-removebg-preview.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5a5b31ebf93910652f6d778f1648cde1.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

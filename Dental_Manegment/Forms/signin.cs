@@ -52,10 +52,17 @@ namespace Dental_Manegment.Forms
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            
-            loading _load=new loading();
+            loading _load = new loading();
             _load.Show();
-            Hide();
+            this.Close();   
+
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+
+
+            System.Windows.Forms.Application.Exit();
         }
     }
 }

@@ -84,6 +84,16 @@ namespace Dental_Manegment.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _5a5b31ebf93910652f6d778f1648cde1 {
+            get {
+                object obj = ResourceManager.GetObject("_5a5b31ebf93910652f6d778f1648cde1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap chat__1_ {
             get {
                 object obj = ResourceManager.GetObject("chat__1_", resourceCulture);
