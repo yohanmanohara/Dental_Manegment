@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Dental_Manegment.Forms
 {
-    public partial class FrmMain : Form
+    public partial class signin : Form
     {
-        public FrmMain()
+        public signin()
         {
             InitializeComponent();
         }
@@ -28,6 +28,21 @@ namespace Dental_Manegment.Forms
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void bunifuTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2ImageButton1_Click(object sender, EventArgs e)
         {
 
         }
