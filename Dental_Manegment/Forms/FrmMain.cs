@@ -26,5 +26,10 @@ namespace Dental_Manegment.Forms
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
